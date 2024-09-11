@@ -6,7 +6,7 @@ Group BY dept;
 
 
 /* Give the name of department having lowest avg salary*/
-SELECT dept 
+SELECT dept as Departemnt
 FROM emp
 GROUP BY dept
 ORDER BY AVG(salary) ASC
