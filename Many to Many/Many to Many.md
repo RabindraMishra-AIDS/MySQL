@@ -1,0 +1,1 @@
+In Many to Many Relationship we need to make a Junction Table that will store the primary key of the two or more tables to be connected.
